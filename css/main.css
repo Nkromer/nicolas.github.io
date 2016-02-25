@@ -115,6 +115,10 @@ body {
     box-shadow: 01px 2px 8px rgba(0,0,0,0.26);
 }
 
+blockquote {
+    border-left: 5px solid #E24343 !important;
+}
+
 #contact-info {
         margin-top: 28px;
 }
