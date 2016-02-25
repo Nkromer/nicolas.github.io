@@ -128,7 +128,7 @@ blockquote {
 }
 
 footer {
-    min-height: 80px;
+    min-height: 120px;
 }
 
 
@@ -149,12 +149,15 @@ footer {
     border: 0;
     border-radius: 2px;
     text-decoration: none;
-    transition: opacity 0.2s ease-out;
+
+	-webkit-transition: ease-in .2s;
+	transition: ease-in .2s;
+
     opacity: 0;
     box-shadow: 01px 1px 5px rgba(0,0,0,0.26);
 }
 #back-to-top:hover {
-    background: #e9ebec;
+    box-shadow: 01px 4px 10px rgba(0,0,0,0.26);
 }
 #back-to-top.show {
     opacity: 1;

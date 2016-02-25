@@ -1,5 +1,7 @@
+
+// Back to top button
 if ($('#back-to-top').length) {
-    var scrollTrigger = 100, // px
+    var scrollTrigger = 800, // px
         backToTop = function () {
             var scrollTop = $(window).scrollTop();
             if (scrollTop > scrollTrigger) {
