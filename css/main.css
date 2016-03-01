@@ -100,6 +100,13 @@ h1, h2, h3, h4, h5 {
     font-family: "Lato", "Helvetica neue", Helvetica, Arial, sans-serif !important;
 }
 
+a {
+    color: #E24343;
+}
+a:hover {
+    color: #D35B5B;
+}
+
 p {
      font-family: "Open Sans", "Helvetica neue", Helvetica, Arial, sans-serif !important;
 }
