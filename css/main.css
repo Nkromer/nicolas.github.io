@@ -101,10 +101,10 @@ h1, h2, h3, h4, h5 {
 }
 
 a {
-    color: #E24343;
+    color: #E24343 !important;
 }
 a:hover {
-    color: #D35B5B;
+    color: #D35B5B !important;
 }
 
 p {
