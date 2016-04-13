@@ -1,0 +1,85 @@
+
+Nicolas Romer
+======             
+**UX Designer & Front-End Developer**
+         
+http://nicolasromer.com
+
+nicolasromer at gmail.com
+(647) 687-7763
+1000 Broadview ave.
+Toronto Ontario, M4K 2R7
+
+
+Profile
+------
+Creative, analytical, and empathetic designer with two years' experience leading UX and UI development on major projects.
+
+
+Experience
+------
+####Semaphore Campaigns – Co-Founder, Lead Designer, Front-end Developer
+*January 2015 - Present*
+
+Co-founded bilingual web development company which pairs developers with community organizers: unique business model brings freelancers together to realize web development projects and campaigns
+
+- Led UX/UI development on 10+ national campaigns, collaborating with a small, cross-functional team
+- collaborated with another firm to create app for Belairdirect resulting in thousands of users
+- Worked with mutiple stakeholders envisioning and executing website and year-long campaign, raising funds to support Indigenous families across Ontario
+- Comprehensive redesign of SEIU healthcare's join page, increasing percentage of quality leads
+- Re-designing and developing websites for dozens of small organizations, delighting clients and their users
+
+**Clients include:**
+SEIU Healthcare Canada, the Chiefs on Ontario, Expo 2025 Canada Steering Committee, Montreal’s gay village BIA, the Quebec Student Union, RIVO-Résilience, the Montreal-West Curling Club, the Eastern Canada Orchid Society, CleverToday
+
+####CauseComms inc. – Web Designer
+*May 2014 - January 2015*
+
+Collaborated with a team of organizers and developers across Toronto, Vancouver, and Montreal to design and execute websites and campaigns.
+
+- Created mock-ups from low to high fidelity, garnering feedback from clients and teammates
+- Worked with brand guides and contributed new standards for mobile
+- Designed and developed online platform to organize the largest climate rally in Canada, with 25000+ participants
+
+**Major projects:**
+the Act on Climate March, Canadian Union of Postal Workers‘ We Deliver Canada campaign
+
+
+Skills
+------
+**Expert:**
+Sketch, Photoshop, Invision, HTML5, CSS/SCSS, JavaScript/JQuery, Invision, prototyping
+
+**Strong:**
+Git, Illustrator, Balsamiq, Axure, PHP, usability testing, information architecture, Google analytics 
+
+**Functional:**
+JavaFX, Python, Django, Rails, MySQL, software design patterns, algorithms,
+
+Education
+------
+**Concordia University – Bachelor of Fine Arts in Studio Arts, 2013**
+Conceived and executed complex projects, while giving and taking constructive feedback
+
+- Developed hands-on design and creative project management skills
+- Team collaboration to turn abstract concepts into concrete realizations
+- Created websites, posters, and books to promote 10+ group and solo exhibitions
+- Collaborated with programmer to realize interactive application for gallery exhibition
+
+**Languages**
+English and French: native proficiency
+		
+Community
+------
+**Civic Tech Toronto**
+- Collaborated on interactive city budget visualization project, advised aspiring developers and designers on projects and career development
+
+**Santropol Roulant, Montreal**
+- served as community bike shop head mechanic
+
+**NDG Food Depot, Montreal**
+- worked to ensure neighbourhood food security
+
+
+<small>References available upon request</small>
+
